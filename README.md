@@ -1,6 +1,6 @@
 # Hinal-QA-Portfolio
 
-## QA Engineer | Manual Testing | API Testing | Java Selenium automation | Playwright | Mobile & Web Testing | Automation & AI Enthusiast
+### QA Engineer | Manual Testing | API Testing | Java Selenium automation | Playwright | Mobile & Web Testing | Automation & AI Enthusiast
 
 I am a Quality Assurance professional with 2.6+ years of hands-on experience in Manual Testing, Functional Testing, Regression Testing, API Testing, and Web/Mobile Application Testing. My expertise includes test case design, defect reporting, test execution, and ensuring software quality throughout the SDLC and STLC processes.
 
@@ -48,11 +48,14 @@ My testing approach focuses on proactive risk identification, thorough validatio
 
 ### Connect With Me
 
-LinkedIn: linkedin.com/in/hinal-bhuva-691652260
+LinkedIn: https://www.linkedin.com/in/hinal-bhuva-691652260/
 
 Email: hinalbhuva22@gmail.com
 
 Github: https://github.com/HinalBhuva22
 
 Location: Surat, Gujarat, India
+
+
+⭐ Thank you for visiting my GitHub portfolio. I am always open to connecting with professionals, collaborating on QA initiatives, exploring freelance projects, and considering remote or international opportunities. Feel free to reach out for discussions related to software quality, testing strategies, automation, and modern QA practices.
 
