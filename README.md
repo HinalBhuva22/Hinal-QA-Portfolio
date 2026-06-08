@@ -14,7 +14,7 @@ Web Application Testing | Test Case Design | Bug Reporting
 
 * API Testing - Postman | API Validation  Request & Response Verification | Defect Validation
 
-* Automation Testing - Core Java Language| Selenium WebDriver | Maven | JUnit | TestNG | Playwright | Cypress |  
+* Automation Testing - Core Java Language | Selenium WebDriver | Maven | JUnit | TestNG | Playwright | Cypress |  
 
 * Test Management & Tools - Jira | Trello | ClickUp | Jenkins | JMeter | BrowserStack | LambdaTest
 
