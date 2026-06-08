@@ -9,12 +9,12 @@ I focus on understanding product behavior, identifying risks early, and deliveri
 Currently, I am expanding my expertise in Automation Testing using Java, Selenium WebDriver, and Playwright, while building automation frameworks and enhancing my knowledge of modern QA practices. I am also exploring AI-powered testing tools and workflows to improve testing efficiency, accelerate release cycles, and contribute to high-quality software delivery.
 
 ### Core Skills
-* Manual Testing - Functional Testing | Regression Testing | Smoke Testing | Sanity Testing | UAT Testing | Mobile Testing | 
+* Manual Testing - Functional Testing | Cloud Testing | Regression Testing | Smoke Testing | Sanity Testing | UAT Testing | Mobile Testing | 
 Web Application Testing | Test Case Design | Bug Reporting
 
 * API Testing - Postman | API Validation  Request & Response Verification | Defect Validation
 
-* Automation Testing - Core Java Language| Selenium WebDriver | Playwright | Cypress | Maven | JUnit
+* Automation Testing - Core Java Language| Selenium WebDriver | Maven | JUnit | TestNG | Playwright | Cypress |  
 
 * Test Management & Tools - Jira | Trello | ClickUp | Jenkins | JMeter | BrowserStack | LambdaTest
 
