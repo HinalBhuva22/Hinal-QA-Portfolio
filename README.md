@@ -1,6 +1,6 @@
 # Hinal-QA-Portfolio
 
-### QA Engineer | Manual Testing | API Testing | Automation - Selenium with Core Java & Playwright with JavaScript | Mobile & Web Testing | AI in Testing | Automation & AI Enthusiast
+### QA Engineer | Manual Testing | API Testing | Automation - Selenium with Core Java & Playwright with JavaScript | Mobile & Web Testing | AI in Testing | Automation & Quality × AI insights
 
 I am a Quality Assurance professional with 2.6+ years of hands-on experience in Manual Testing, Functional Testing, Regression Testing, API Testing, and Web/Mobile Application Testing. My expertise includes test case design, defect reporting, test execution, and ensuring software quality throughout the SDLC and STLC processes.
 
