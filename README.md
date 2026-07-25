@@ -57,9 +57,9 @@ Github: https://github.com/HinalBhuva22
 Location: Surat, Gujarat, India
 
 
-⭐ Thank you for visiting my GitHub portfolio. I am always open to connecting with professionals,collaborating on QA initiatives,exploring client's business projects for providing the quality assurance needs,and considering remote or international opportunities. 
+⭐ Thank you for visiting my GitHub portfolio. I am always open to connecting with professionals,collaborating on QA initiatives, exploring client's business projects for providing the quality assurance needs,and considering remote or international opportunities. 
 
-Feel free to reach out me for discussions related to software quality for your product, quality assurance & testing strategies,how to automate,and need any assistance regarding modern QA practices & strategies to bring long-term success for your product by continuously improving quality.
+Feel free to reach out me for discussions related to software quality for your product, quality assurance & testing strategies,how to automate, and need any assistance regarding modern QA practices & strategies to bring long-term success for your product by continuously improving quality.
 
 
 
